@@ -1,6 +1,7 @@
 # Branching
 
 # Dewi Fortuna
+# Data Analyst
 
 What is Git Branching?
 Git branching is a technique in which developers create separate lines of development, known as branches, to work on specific features, fixes, or experiments independently from the main codebase. This allows multiple parallel streams of work to coexist without interfering with each other.
