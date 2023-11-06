@@ -1,6 +1,7 @@
 # Merging
 
 # Dewi Fortuna
+# Data Analyst
 
 What is Git Merging?
 Git merging is the process of integrating changes made on one branch into another branch. It is a crucial aspect of version control that helps consolidate and organize code changes from multiple sources.
